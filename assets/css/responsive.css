@@ -1,6 +1,6 @@
 /* Pc */
 @media(min-width: 1024px) {
-// trên mobile
+    
 }
 
 /* Tablet & mobile */
@@ -82,6 +82,10 @@
 
     #nav > li:first-child {
         display: inline-block;
+    }
+
+    #slider .text-content {
+        display: none;
     }
 
     #content .member-img {
