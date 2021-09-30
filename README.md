@@ -1,1 +1,1 @@
-# tranminhkhang2904/theband.github.oi
+# tranminhkhang2904.github.oi/theband/
